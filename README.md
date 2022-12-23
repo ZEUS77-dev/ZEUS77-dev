@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devadutta</h1>
-<h3 align="center">👀</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <a href="https://twitter.com/devtwt_77" target="blank"><img src="https://img.shields.io/twitter/follow/devtwt_77?logo=twitter&style=for-the-badge" alt="devtwt_77" /></a> </p>
 
