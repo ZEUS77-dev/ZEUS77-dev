@@ -12,7 +12,7 @@
 <a href="https://twitter.com/devtwt_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devtwt_77" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/debadutta-hati-333a751b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debadutta-hati-333a751b8" height="30" width="40" /></a>
 <a href="https://kaggle.com/zeus77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeus77" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/zeus77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zeus77" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/_obito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zeus77" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
