@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/devtwt_77" target="blank"><img src="https://img.shields.io/twitter/follow/devtwt_77?logo=twitter&style=for-the-badge" alt="devtwt_77" /></a> </p>
 
-- 🌱 I’m currently learning **React.js & Next.js**
+- 🌱 I’m currently learning **Socket.io, WebRTC &  Next.js**
 
 - 📫 How to reach me **devhati83@gmail.com**
 
