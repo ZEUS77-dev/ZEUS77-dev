@@ -2,7 +2,7 @@
 <h3 align="center"></h3>
 
 
-- 🌱 I’m currently learning **Socket.io, WebRTC &  react and Next.js**
+- 🌱 I’m currently learning **Socket.io, WebRTC and Next.js**
 
 - 📫 How to reach me **devhati83@gmail.com**
 
